@@ -1,5 +1,7 @@
 ## Course Outline
 
+Refernece: <a href="https://www.deeplearning.ai/short-courses/mcp-build-rich-context-ai-apps-with-anthropic/">Deeplearning.ai</a>
+
 - Lesson 1: Why MCP? - video only
 - Lesson 2: MCP Architecture - video only
 - Lesson 3: Chatbot Example - video with code example
@@ -10,3 +12,5 @@
 - Lesson 8: Configuring Servers for Claude Desktop - video only
 - Lesson 9: Creating and Deploying Remote Server  - video with code example 
 - Lesson 10: MCP Roadmap & Conclusion - video only
+
+Please visit the above url for more clear overview of the course. 
